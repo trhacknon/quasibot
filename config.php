@@ -4,7 +4,7 @@
 
 quasiBot 0.3 - config file
 
-https://github.com/Smaash/quasibot
+https://github.com/trhacknon/quasibot
 
  ~ smash[at]devilteam.pl
 
@@ -24,10 +24,10 @@ define('SQL_USER', 'root');
 define('SQL_PWD', 'fuckyou');
 define('SQL_DB', 'quasibot');
 
-//Authentication, default credentials - quasi:changeme
+//Authentication, default credentials - trhack:trhack
 define('AUTH_ENABLE', 1); //0 - Disable, 1 - Enable
-define('AUTH_USER', 'quasi'); //Auth login
-define('AUTH_PASS', '4cb9c8a8048fd02294477fcb1a41191a'); //Auth password, MD5 encrypted
+define('AUTH_USER', 'trhack'); //Auth login
+define('AUTH_PASS', '2bb65dd9afc74190dc74fab6b7554951'); //Auth password, MD5 encrypted
 define('AUTH_USECOOKIE', 0); //0 - Disable, 1 - Enable; Cookie Auth Protection
 define('AUTH_COOKIE', 'secretcookie=value'); //Cookie required for Cookie Auth
 
